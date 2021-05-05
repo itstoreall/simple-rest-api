@@ -1,0 +1,25 @@
+{
+  "name": "simple-rest-api",
+  "version": "1.0.0",
+  "description": "A simple REST App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itstoreall/simple-rest-api.git"
+  },
+  "keywords": [],
+  "author": "Serhii Stanislav <serhiistanislav@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itstoreall/simple-rest-api/issues"
+  },
+  "homepage": "https://github.com/itstoreall/simple-rest-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nanoid": "^3.1.22"
+  }
+}
